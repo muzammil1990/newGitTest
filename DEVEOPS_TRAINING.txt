@@ -1,0 +1,12 @@
+
+Deveops onservation-
+
+mocking up framework - used when front end is not connected to back end then how do we test?  we use mocking up framework.
+
+> if we are right click and do run test suite(contains multiple test scripts) then its not deveops since we are manully triggering the automation code.
+we should integrate with jenkins build so whenever developers run the build it automatically triggers the test suite and execute the test scripts.
+
+
+advance level of Deveops- when we take care of data and do not need to pause the execution for updating the data in excel sheet i.e. when build is getting executed 
+
+test data are also being taken care of.
