@@ -7,6 +7,5 @@ mocking up framework - used when front end is not connected to back end then how
 we should integrate with jenkins build so whenever developers run the build it automatically triggers the test suite and execute the test scripts.
 
 
-advance level of Deveops- when we take care of data and do not need to pause the execution for updating the data in excel sheet i.e. when build is getting executed 
-
+Advance level of Deveops- when we take care of data and do not need to pause the execution for updating the data in excel sheet i.e. when build is getting executed 
 test data are also being taken care of.
